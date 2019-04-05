@@ -2,6 +2,19 @@ img {
 	border-radius: 40%;
 	width: 250px;
 	height: 250px;
-	display: inline-block;
+}
 
+#collapseThree {
+
+	width: 20%;
+	height: 20%;
+
+}
+
+h3 {
+	font-size: 18px;
+}
+
+.progress-bar {
+		width: 75%;
 }
