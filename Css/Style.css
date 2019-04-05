@@ -4,17 +4,34 @@ img {
 	height: 250px;
 }
 
+h1 {
+	color: #F9E8D0;
+}
+
 #collapseThree {
 
 	width: 20%;
-	height: 20%;
-
 }
 
+.progress{
+	margin-bottom: -10%;
+}
 h3 {
 	font-size: 18px;
 }
 
-.progress-bar {
-		width: 75%;
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url("https://images.pond5.com/orange-green-technology-background-footage-070787698_prevstill.jpeg");
+	color:black;
+	background-size: 100%;
+	background-attachment: fixed;
+
+}
+
+.profil {
+		display: inline-block;
+		justify-content: center;
+
 }
